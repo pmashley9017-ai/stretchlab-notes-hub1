@@ -1,0 +1,25 @@
+{
+  "name": "stretchlab-notes-hub",
+  "version": "1.0.0",
+  "description": "StretchLab unified session notes application - frontend + backend combined",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "stretchlab",
+    "flexologists",
+    "session-notes",
+    "clubready"
+  ],
+  "author": "StretchLab",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
